@@ -1,3 +1,7 @@
+def print_hello():
+    print("hello")
+
+
 def print_hello_world():
     print("hello world"42)
 
