@@ -1,7 +1,3 @@
-def print_4():
-    print(4)
-
-
 def print_3():
     print(3)
 
